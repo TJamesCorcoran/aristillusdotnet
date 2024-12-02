@@ -1,0 +1,25 @@
+FullName,LastFirst,FirstName,LastName,Party,County,District,FormattedDistrict,EmployeeNo,InOfficeCount,PossibleVoteCount,CorrectVoteCount,IncorrectVoteCount,AbsenceCount,PresidingCount,MaxLegislatorScore,RawScore,PercentMissed,VotingPercent,VotingGrade,SponsorRawScore,CombinedPercent,CombinedGrade
+Sen. John Reagan (R),"Reagan, John",John,Reagan,R,NULL,17,Senate 17,209095,25,25,20,5,0,0,48,38,0,79.2,B,4.25,83,B+
+Sen. Harold French (R),"French, Harold",Harold,French,R,Merrimack,7,Senate 7,218748,25,25,19,6,0,0,48,36,0,75,B,0.75,75.7,B
+Sen. Gary Daniels (R),"Daniels, Gary",Gary,Daniels,R,NULL,11,Senate 11,209098,25,25,18,7,0,0,48,34,0,70.8,B-,2.0625,72.6,B-
+Sen. James Gray (R),"Gray, James",James,Gray,R,NULL,6,Senate 6,218739,25,25,18,7,0,0,48,34,0,70.8,B-,0.75,71.5,B-
+Sen. Chuck Morse (R),"Morse, Chuck",Chuck,Morse,R,NULL,22,Senate 22,209057,25,25,18,7,0,0,48,34,0,70.8,B-,0.75,71.5,B-
+Sen. Ruth Ward (R),"Ward, Ruth",Ruth,Ward,R,NULL,8,Senate 8,218740,25,25,17,8,0,0,48,32,0,66.7,C+,2.25,68.7,B-
+Sen. Jeb Bradley (R),"Bradley, Jeb",Jeb,Bradley,R,NULL,3,Senate 3,209078,25,25,17,8,0,0,48,32,0,66.7,C+,0.5,67.1,B-
+Sen. Kevin Avard (R),"Avard, Kevin",Kevin,Avard,R,NULL,12,Senate 12,209099,25,25,17,8,0,0,48,32,0,66.7,C+,0.3125,67,B-
+Sen. Regina Birdsell (R),"Birdsell, Regina",Regina,Birdsell,R,NULL,19,Senate 19,209101,25,25,17,8,0,0,48,32,0,66.7,C+,0,66.7,C+
+Sen. Denise Ricciardi (R),"Ricciardi, Denise",Denise,Ricciardi,R,NULL,9,Senate 9,218752,25,25,17,8,0,0,48,32,0,66.7,C+,0,66.7,C+
+Sen. Bob Giuda (R),"Giuda, Bob",Bob,Giuda,R,NULL,2,Senate 2,218737,25,25,17,8,0,0,48,32,0,66.7,C+,-0.6875,66.1,C+
+Sen. Erin Hennessey (R),"Hennessey, Erin",Erin,Hennessey,R,NULL,1,Senate 1,218750,25,25,17,8,0,0,48,32,0,66.7,C+,-2,64.9,C+
+Sen. Bill Gannon (R),"Gannon, Bill",Bill,Gannon,R,NULL,23,Senate 23,218745,25,25,17,8,0,0,48,32,0,66.7,C+,-2.9375,64.1,C+
+Sen. Sharon Carson (R),"Carson, Sharon",Sharon,Carson,R,NULL,14,Senate 14,209076,25,25,16,9,0,0,48,29,0,60.4,C+,0.3125,60.7,C+
+Sen. Jay Kahn (D),"Kahn, Jay",Jay,Kahn,D,NULL,10,Senate 10,218744,25,25,8,17,0,0,48,12,0,25,D-,-3.5,21.9,D-
+Sen. Rebecca Perkins Kwoka (D),"Perkins Kwoka, Rebecca",Rebecca,Perkins Kwoka,D,NULL,21,Senate 21,218754,25,25,8,17,0,0,48,12,0,25,D-,-7.5,18.3,F
+Sen. Kevin Cavanaugh (D),"Cavanaugh, Kevin",Kevin,Cavanaugh,D,NULL,16,Senate 16,218749,25,25,7,18,0,0,48,10,0,20.8,D-,-5.5,15.9,F
+Sen. David Watters (D),"Watters, David",David,Watters,D,NULL,4,Senate 4,209091,25,25,7,18,0,0,48,10,0,20.8,D-,-11,11,CT
+Sen. Tom Sherman (D),"Sherman, Tom",Tom,Sherman,D,NULL,24,Senate 24,209102,25,25,6,19,0,0,48,8,0,16.7,F,-6.5,10.9,CT
+Sen. Rebecca Whitley (D),"Whitley, Rebecca",Rebecca,Whitley,D,NULL,15,Senate 15,218753,25,25,8,17,0,0,48,12,0,25,D-,-16.5,10.3,CT
+Sen. Cindy Rosenwald (D),"Rosenwald, Cindy",Cindy,Rosenwald,D,NULL,13,Senate 13,209106,25,25,7,18,0,0,48,10,0,20.8,D-,-14.5,7.9,CT
+Sen. Lou D'Allesandro (D),"D'Allesandro, Lou",Lou,D'Allesandro,D,NULL,20,Senate 20,209015,25,25,6,19,0,0,48,8,0,16.7,F,-10.5,7.3,CT
+Sen. Suzanne Prentiss (D),"Prentiss, Suzanne",Suzanne,Prentiss,D,NULL,5,Senate 5,218751,25,25,5,20,0,0,48,6,0,12.5,CT,-12,1.8,CT
+Sen. Donna Soucy (D),"Soucy, Donna",Donna,Soucy,D,NULL,18,Senate 18,209096,25,25,5,20,0,0,48,7,0,14.6,CT,-15.5,0.8,CT

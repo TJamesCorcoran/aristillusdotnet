@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  dob: 2024-10-14
+  male: false
+  phone: MyString
+  address: one
+
+two:
+  name: MyString
+  dob: 2024-10-14
+  male: false
+  phone: MyString
+  address: two

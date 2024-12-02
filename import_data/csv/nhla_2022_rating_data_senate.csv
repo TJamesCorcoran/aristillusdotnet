@@ -1,0 +1,25 @@
+FullName,LastFirst,FirstName,LastName,Party,County,District,FormattedDistrict,EmployeeNo,InOfficeCount,PossibleVoteCount,CorrectVoteCount,IncorrectVoteCount,AbsenceCount,PresidingCount,MaxLegislatorScore,RawScore,PercentMissed,VotingPercent,VotingGrade,SponsorRawScore,CombinedPercent,CombinedGrade
+Sen. Harold French (R),"French, Harold",Harold,French,R,,7,-07,218748,30,30,21,9,0,0,71,52,0,73.2394366197183,B,1.33333333335,74.5727699530683,B
+Sen. Bob Giuda (R),"Giuda, Bob",Bob,Giuda,R,,2,-02,218737,30,30,19,6,5,0,71,50.5,16.6666666666667,71.1267605633803,B-,0.25,71.3767605633803,B-
+Sen. John Reagan (R),"Reagan, John",John,Reagan,R,,17,-17,209095,30,30,18,7,5,0,71,48.5,16.6666666666667,68.3098591549296,B-,1.916666666675,70.2265258216046,B-
+Sen. Gary Daniels (R),"Daniels, Gary",Gary,Daniels,R,,11,-11,209098,30,30,21,9,0,0,71,49,0,69.0140845070423,B-,1.1666666667,70.1807511737423,B-
+Sen. Kevin Avard (R),"Avard, Kevin",Kevin,Avard,R,,12,-12,209099,30,30,20,9,1,0,71,48,3.33333333333333,67.6056338028169,B-,2.41666666665,70.0223004694669,B-
+Sen. Bill Gannon (R),"Gannon, Bill",Bill,Gannon,R,,23,-23,218745,30,30,20,10,0,0,71,46,0,64.7887323943662,C+,0.1666666667,64.9553990610662,C+
+Sen. Denise Ricciardi (R),"Ricciardi, Denise",Denise,Ricciardi,R,,9,-09,218752,30,30,19,11,0,0,71,44,0,61.9718309859155,C+,0.83333333335,62.8051643192655,C+
+Sen. Chuck Morse (R),"Morse, Chuck",Chuck,Morse,R,,22,-22,209057,30,30,19,11,0,0,71,44,0,61.9718309859155,C+,-0.5,61.4718309859155,C+
+Sen. James Gray (R),"Gray, James",James,Gray,R,,6,-06,218739,30,30,19,11,0,0,71,44,0,61.9718309859155,C+,-0.5,61.4718309859155,C+
+Sen. Ruth Ward (R),"Ward, Ruth",Ruth,Ward,R,,8,-08,218740,30,30,19,11,0,0,71,44,0,61.9718309859155,C+,-1.3333333333,60.6384976526155,C+
+Sen. Regina Birdsell (R),"Birdsell, Regina",Regina,Birdsell,R,,19,-19,209101,30,30,19,11,0,0,71,44,0,61.9718309859155,C+,-1.5,60.4718309859155,C+
+Sen. Sharon Carson (R),"Carson, Sharon",Sharon,Carson,R,,14,-14,209076,30,30,18,12,0,0,71,42,0,59.1549295774648,C,-1,58.1549295774648,C
+Sen. Jeb Bradley (R),"Bradley, Jeb",Jeb,Bradley,R,,3,-03,209078,30,30,18,12,0,0,71,42,0,59.1549295774648,C,-1.083333333325,58.0715962441398,C
+Sen. Erin Hennessey (R),"Hennessey, Erin",Erin,Hennessey,R,,1,-01,218750,30,30,17,13,0,0,71,40,0,56.3380281690141,C,-2.0833333333,54.2546948357141,C
+Sen. Tom Sherman (D),"Sherman, Tom",Tom,Sherman,D,,24,-24,209102,30,30,5,23,2,0,71,15.5,6.66666666666667,21.830985915493,D-,-5,16.830985915493,F
+Sen. Rebecca Whitley (D),"Whitley, Rebecca",Rebecca,Whitley,D,,15,-15,218753,30,30,3,22,5,0,71,13.5,16.6666666666667,19.0140845070422,F,-5,14.0140845070423,CT
+Sen. David Watters (D),"Watters, David",David,Watters,D,,4,-04,209091,30,30,5,25,0,0,71,13,0,18.3098591549296,F,-5,13.3098591549296,CT
+Sen. Jay Kahn (D),"Kahn, Jay",Jay,Kahn,D,,10,-10,218744,30,30,5,25,0,0,71,13,0,18.3098591549296,F,-5,13.3098591549296,CT
+Sen. Suzanne Prentiss (D),"Prentiss, Suzanne",Suzanne,Prentiss,D,,5,-05,218751,30,30,5,25,0,0,71,13,0,18.3098591549296,F,-5,13.3098591549296,CT
+Sen. Rebecca Perkins Kwoka (D),"Perkins Kwoka, Rebecca",Rebecca,Perkins Kwoka,D,,21,-21,218754,30,30,5,25,0,0,71,13,0,18.3098591549296,F,-5,13.3098591549296,CT
+Sen. Cindy Rosenwald (D),"Rosenwald, Cindy",Cindy,Rosenwald,D,,13,-13,209106,30,30,5,25,0,0,71,13,0,18.3098591549296,F,-5,13.3098591549296,CT
+Sen. Lou D'Allesandro (D),"D'Allesandro, Lou",Lou,D'Allesandro,D,,20,-20,209015,30,30,5,25,0,0,71,11,0,15.4929577464789,F,-5,10.4929577464789,CT
+Sen. Donna Soucy (D),"Soucy, Donna",Donna,Soucy,D,,18,-18,209096,30,30,4,26,0,0,71,9,0,12.6760563380282,CT,-5,7.67605633802817,CT
+Sen. Kevin Cavanaugh (D),"Cavanaugh, Kevin",Kevin,Cavanaugh,D,,16,-16,218749,30,30,4,26,0,0,71,9,0,12.6760563380282,CT,-5,7.67605633802817,CT

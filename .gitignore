@@ -1,0 +1,6 @@
+tmp
+storage
+log/*.log
+*~
+\#*
+.\#*

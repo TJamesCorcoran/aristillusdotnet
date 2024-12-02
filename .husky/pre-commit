@@ -1,0 +1,12 @@
+#!/usr/bin/env sh
+echo "==================== husky pre-commit hook rubcop"
+if ! rubocop ; then
+  exit 1
+fi
+
+
+echo "==================== husky pre-commit hook rspec"
+if ! bundle exec rspec ; then
+  exit 1
+fi
+

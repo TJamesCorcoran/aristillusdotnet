@@ -1,0 +1,25 @@
+FullName,LastFirst,FirstName,LastName,Party,County,District,FormattedDistrict,EmployeeNo,InOfficeCount,PossibleVoteCount,CorrectVoteCount,IncorrectVoteCount,AbsenceCount,PresidingCount,MaxLegislatorScore,RawScore,PercentMissed,VotingPercent,VotingGrade,SponsorRawScore,CombinedPercent,CombinedGrade
+Sen. John Reagan (R),"Reagan, John",John,Reagan,R,NULL,17,Senate 17,209095,38,38,30,7,1,0,111,94.5,2.6,85.1,B+,4.16666668653488,86.8,B+
+Sen. Harold French (R),"French, Harold",Harold,French,R,NULL,7,Senate 7,218748,38,38,29,9,0,0,111,96,0,86.5,B+,0,86.5,B+
+Sen. Ruth Ward (R),"Ward, Ruth",Ruth,Ward,R,NULL,8,Senate 8,218740,38,38,30,8,0,0,111,93,0,83.8,B+,-5.83333331346511,81.4,B+
+Sen. James Gray (R),"Gray, James",James,Gray,R,NULL,6,Senate 6,218739,38,38,30,8,0,0,111,91,0,82,B+,-1.83333331346511,81.2,B+
+Sen. David Starr (R),"Starr, David",David,Starr,R,NULL,1,Senate 1,209105,38,38,27,11,0,0,111,88,0,79.3,B,2.33333334326744,80.3,B+
+Sen. Bob Giuda (R),"Giuda, Bob",Bob,Giuda,R,NULL,2,Senate 2,218737,38,38,27,11,0,0,111,90,0,81.1,B+,-4.33333331346511,79.3,B
+Sen. Chuck Morse (R),"Morse, Chuck",Chuck,Morse,R,NULL,22,Senate 22,209057,38,38,25,13,0,0,111,84,0,75.7,B,-0.333333283662796,75.6,B
+Sen. Sharon Carson (R),"Carson, Sharon",Sharon,Carson,R,NULL,14,Senate 14,209076,38,38,26,12,0,0,111,85,0,76.6,B,-3.33333331346511,75.2,B
+Sen. Regina Birdsell (R),"Birdsell, Regina",Regina,Birdsell,R,NULL,19,Senate 19,209101,38,38,25,13,0,0,111,84,0,75.7,B,-3.33333331346511,74.3,B
+Sen. Jeb Bradley (R),"Bradley, Jeb",Jeb,Bradley,R,NULL,3,Senate 3,209078,38,38,26,11,0,0,111,87,0,78.4,B,-14.1666666269302,72.5,B-
+Sen. Martha Fuller Clark (D),"Fuller Clark, Martha",Martha,Fuller Clark,D,NULL,21,Senate 21,209061,38,38,7,22,9,0,111,32.5,23.7,29.3,D,-25.5,18.7,F
+Sen. Jon Morgan (D),"Morgan, Jon",Jon,Morgan,D,NULL,23,Senate 23,209107,38,38,6,32,0,0,111,17,0,15.3,F,-1.5,14.7,CT
+Sen. Shannon Chandley (D),"Chandley, Shannon",Shannon,Chandley,D,NULL,11,Senate 11,209104,38,38,7,31,0,0,111,15,0,13.5,CT,2,14.3,CT
+Sen. Jeanne Dietsch (D),"Dietsch, Jeanne",Jeanne,Dietsch,D,NULL,9,Senate 9,209103,38,38,8,30,0,0,111,17,0,15.3,F,-6.5,12.6,CT
+Sen. Cindy Rosenwald (D),"Rosenwald, Cindy",Cindy,Rosenwald,D,NULL,13,Senate 13,209106,38,38,7,31,0,0,111,15,0,13.5,CT,-8,10.2,CT
+Sen. Jay Kahn (D),"Kahn, Jay",Jay,Kahn,D,NULL,10,Senate 10,218744,38,38,6,32,0,0,111,14,0,12.6,CT,-8,9.3,CT
+Sen. Melanie Levesque (D),"Levesque, Melanie",Melanie,Levesque,D,NULL,12,Senate 12,209108,38,38,5,33,0,0,111,13,0,11.7,CT,-9,8,CT
+Sen. Tom Sherman (D),"Sherman, Tom",Tom,Sherman,D,NULL,24,Senate 24,209102,38,38,7,31,0,0,111,15,0,13.5,CT,-15,7.3,CT
+Sen. Donna Soucy (D),"Soucy, Donna",Donna,Soucy,D,NULL,18,Senate 18,209096,38,38,3,35,0,0,111,9,0,8.1,CT,-7.5,5,CT
+Sen. Martha Hennessey (D),"Hennessey, Martha",Martha,Hennessey,D,NULL,5,Senate 5,218738,38,38,6,32,0,0,111,14,0,12.6,CT,-20,4.3,CT
+Sen. Dan Feltes (D),"Feltes, Dan",Dan,Feltes,D,NULL,15,Senate 15,209100,38,38,7,31,0,0,111,15,0,13.5,CT,-22.5,4.2,CT
+Sen. David Watters (D),"Watters, David",David,Watters,D,NULL,4,Senate 4,209091,38,38,4,34,0,0,111,12,0,10.8,CT,-21.5,1.9,CT
+Sen. Kevin Cavanaugh (D),"Cavanaugh, Kevin",Kevin,Cavanaugh,D,NULL,16,Senate 16,218749,38,38,2,36,0,0,111,6,0,5.4,CT,-16.5,-1.4,CT
+Sen. Lou D'Allesandro (D),"D'Allesandro, Lou",Lou,D'Allesandro,D,NULL,20,Senate 20,209015,38,38,1,36,1,0,111,4.5,2.6,4.1,CT,-15.5,-2.3,CT

@@ -1,0 +1,60 @@
+require:
+  - rubocop-capybara
+  - rubocop-factory_bot
+  - rubocop-rails
+  - rubocop-rspec
+  - rubocop-rspec_rails
+  
+AllCops:
+  NewCops: enable
+  Exclude:
+    - 'bin/bundle'
+
+
+Metrics/BlockLength:
+   Max: 300
+
+Metrics/MethodLength:
+   Max: 300
+
+RSpec/ExampleLength:
+   Max: 300
+   
+Naming/AccessorMethodName:
+  Enabled: off
+
+Metrics/AbcSize:
+   Max: 100
+
+Metrics/CyclomaticComplexity:
+   Max: 30            
+
+Style/Documentation:
+  Exclude:
+    - 'db/migrate/*'
+          
+RSpec/MultipleExpectations:
+        Max: 20
+
+Metrics/ClassLength:
+    Max: 300
+
+Metrics/PerceivedComplexity:
+    Max: 30
+
+
+RSpec/IndexedLet:
+   Enabled: off
+
+Naming/VariableNumber:
+   Enabled: off
+
+RSpec/MultipleMemoizedHelpers:
+   Max: 20
+
+RSpec/LetSetup:
+   Enabled: off
+
+RSpec/NestedGroups:
+    Max: 10
+

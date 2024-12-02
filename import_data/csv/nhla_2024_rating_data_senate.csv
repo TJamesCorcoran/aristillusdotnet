@@ -1,0 +1,25 @@
+FullName,LastFirst,FirstName,LastName,Party,County,District,FormattedDistrict,EmployeeNo,InOfficeCount,PossibleVoteCount,CorrectVoteCount,IncorrectVoteCount,AbsenceCount,PresidingCount,MaxLegislatorScore,RawScore,PercentMissed,VotingPercent,VotingGrade,SponsorRawScore,CombinedPercent,CombinedGrade
+Sen. Keith Murphy (R),"Murphy, Keith",Keith,Murphy,R,,16,Senate-16,218758,30,30,21,9,0,0,61,49,0,80.327868852459,B+,5,85.327868852459,B+
+Sen. Howard  Pearl (R),"Pearl, Howard ",Howard ,Pearl,R,,17,Senate-17,218759,30,30,18,12,0,0,61,39,0,63.9344262295082,C+,0.583333333249999,64.5177595627582,C+
+Sen. Timothy Lang (R),"Lang, Timothy",Timothy,Lang,R,,2,Senate-02,218756,30,30,18,12,0,0,61,39,0,63.9344262295082,C+,-0.250000000025,63.6844262294832,C+
+Sen. James Gray (R),"Gray, James",James,Gray,R,,6,Senate-06,218739,30,30,18,12,0,0,61,39,0,63.9344262295082,C+,-1.083333333325,62.8510928961832,C+
+Sen. Ruth Ward (R),"Ward, Ruth",Ruth,Ward,R,,8,Senate-08,218740,30,30,18,12,0,0,61,39,0,63.9344262295082,C+,-1.083333333375,62.8510928961332,C+
+Sen. Regina Birdsell (R),"Birdsell, Regina",Regina,Birdsell,R,,19,Senate-19,209101,30,30,18,12,0,0,61,39,0,63.9344262295082,C+,-2.16666666665,61.7677595628582,C+
+Sen. Kevin Avard (R),"Avard, Kevin",Kevin,Avard,R,,12,Senate-12,209099,30,30,18,12,0,0,61,39,0,63.9344262295082,C+,-2.333333333375,61.6010928961332,C+
+Sen. Daniel Innis (R),"Innis, Daniel",Daniel,Innis,R,,7,Senate-07,218747,30,30,18,12,0,0,61,39,0,63.9344262295082,C+,-2.666666666725,61.2677595627832,C+
+Sen. Daryl Abbas (R),"Abbas, Daryl",Daryl,Abbas,R,,22,Senate-22,218760,30,30,17,13,0,0,61,38.5,0,63.1147540983607,C+,-2.16666666675,60.9480874316107,C+
+Sen. Bill Gannon (R),"Gannon, Bill",Bill,Gannon,R,,23,Senate-23,218745,30,30,16,14,0,0,61,38,0,62.2950819672131,C+,-1.583333333425,60.7117486337881,C+
+Sen. Jeb Bradley (R),"Bradley, Jeb",Jeb,Bradley,R,,3,Senate-03,209078,30,30,18,12,0,0,61,39,0,63.9344262295082,C+,-3.4166666667,60.5177595628082,C+
+Sen. Sharon Carson (R),"Carson, Sharon",Sharon,Carson,R,,14,Senate-14,209076,30,30,17,13,0,0,61,38.5,0,63.1147540983607,C+,-4.8333333333,58.2814207650607,C
+Sen. Carrie Gendreau (R),"Gendreau, Carrie",Carrie,Gendreau,R,,1,Senate-01,218755,30,30,15,15,0,0,61,36,0,59.0163934426229,C,-1.5833333334,57.4330601092229,C
+Sen. Denise Ricciardi (R),"Ricciardi, Denise",Denise,Ricciardi,R,,9,Senate-09,218752,30,30,10,17,3,0,61,29.5,10,48.3606557377049,C-,-2.33333333335,46.0273224043549,C-
+Sen. Rebecca Perkins Kwoka (D),"Perkins Kwoka, Rebecca",Rebecca,Perkins Kwoka,D,,21,Senate-21,218754,30,30,9,18,3,0,61,19.5,10,31.9672131147541,D,-5,26.9672131147541,D-
+Sen. Suzanne Prentiss (D),"Prentiss, Suzanne",Suzanne,Prentiss,D,,5,Senate-05,218751,30,30,9,21,0,0,61,15,0,24.5901639344262,D-,-5,19.5901639344262,F
+Sen. Rebecca Whitley (D),"Whitley, Rebecca",Rebecca,Whitley,D,,15,Senate-15,218753,30,30,9,21,0,0,61,15,0,24.5901639344262,D-,-5,19.5901639344262,F
+Sen. Donovan Fenton (D),"Fenton, Donovan",Donovan,Fenton,D,,10,Senate-10,218757,30,30,9,21,0,0,61,15,0,24.5901639344262,D-,-5,19.5901639344262,F
+Sen. David Watters (D),"Watters, David",David,Watters,D,,4,Senate-04,209091,30,30,7,23,0,0,61,12,0,19.672131147541,F,-5,14.672131147541,CT
+Sen. Debra Altschiller (D),"Altschiller, Debra",Debra,Altschiller,D,,24,Senate-24,218761,30,30,7,23,0,0,61,12,0,19.672131147541,F,-5,14.672131147541,CT
+Sen. Shannon Chandley (D),"Chandley, Shannon",Shannon,Chandley,D,,11,Senate-11,209104,30,30,8,22,0,0,61,12,0,19.672131147541,F,-5,14.672131147541,CT
+Sen. Cindy Rosenwald (D),"Rosenwald, Cindy",Cindy,Rosenwald,D,,13,Senate-13,209106,30,30,8,22,0,0,61,12,0,19.672131147541,F,-5,14.672131147541,CT
+Sen. Lou D'Allesandro (D),"D'Allesandro, Lou",Lou,D'Allesandro,D,,20,Senate-20,209015,30,30,7,23,0,0,61,10,0,16.3934426229508,F,-5,11.3934426229508,CT
+Sen. Donna Soucy (D),"Soucy, Donna",Donna,Soucy,D,,18,Senate-18,209096,30,30,5,25,0,0,61,8,0,13.1147540983607,CT,-5,8.11475409836066,CT
